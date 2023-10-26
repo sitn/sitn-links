@@ -6,6 +6,7 @@ Liste de ressources utiles
 | Nom      | Description |
 | ----------- | ----------- |
 | [Cloudscape](https://cloudscape.design/) | An open source design system for the cloud. Cloudscape offers user interface guidelines, front-end components, design resources, and development tools for building intuitive, engaging, and inclusive user experiences at scale. |
+|[undraw](https://undraw.co/illustrations)| Illustrations customizables |
 
 ### Typographie
 
@@ -21,6 +22,7 @@ Liste de ressources utiles
 | ----------- | ----------- |
 | [OpenMoji](https://openmoji.org/) | Open source emojis for designers, developers and everyone else! |
 | [Google Material Symbols](https://fonts.google.com/icons?icon.set=Material+Symbols)   | Google's collection of symbols using Material Design principles. |
+| [font-gis](https://viglino.github.io/font-gis/) | Icônes GIS |
 
 ### Modélisation de base de données
 | Nom      | Description |
