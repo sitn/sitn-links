@@ -11,7 +11,8 @@ Liste de ressources utiles
 
 | Nom      | Description |
 | ----------- | ----------- |
-| [Google Fonts](https://fonts.google.com/)   | A collection of open source fonts |
+| [Google Fonts](https://fonts.google.com/)   | Google's collection of open source fonts. |
+| [google-webfonts-helper](https://gwfh.mranftl.com/fonts)   | A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. |
 | [Fonttools](https://pypi.org/project/fonttools/)   | fontTools is a library for manipulating fonts, written in Python. The project includes the TTX tool, that can convert TrueType and OpenType fonts to and from an XML text format, which is also called TTX. It supports TrueType, OpenType, AFM and to an extent Type 1 and some Mac-specific formats. The project has an MIT open-source licence.|
 
 ### Icônes / Symboles
@@ -19,4 +20,10 @@ Liste de ressources utiles
 | Nom      | Description |
 | ----------- | ----------- |
 | [OpenMoji](https://openmoji.org/) | Open source emojis for designers, developers and everyone else! |
-| [Google Material Symbols](https://fonts.google.com/icons?icon.set=Material+Symbols)   | Google's collection of symbols using Material Design principles |
+| [Google Material Symbols](https://fonts.google.com/icons?icon.set=Material+Symbols)   | Google's collection of symbols using Material Design principles. |
+
+### Modélisation de base de données
+| Nom      | Description |
+| ----------- | ----------- |
+| [DBDiagram](https://dbdiagram.io/) | Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL language. |
+
