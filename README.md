@@ -29,3 +29,11 @@ Liste de ressources utiles
 | ----------- | ----------- |
 | [DBDiagram](https://dbdiagram.io/) | Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL language. |
 
+## Python 
+
+### Django
+| Nom      | Description |
+| ----------- | ----------- |
+| [Django cheat sheet](https://github.com/lucrae/django-cheat-sheet) | A cheat-sheet for creating web apps with the Django framework using the Python language. |
+
+
