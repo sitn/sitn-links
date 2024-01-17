@@ -35,7 +35,7 @@ Liste de ressources utiles
 
 | Nom      | Description |
 | ----------- | ----------- |
-| [Eduard]([https://dbdiagram.io/](https://eduard.earth/)) | Eduard creates beautiful and accurate Swiss-style shaded relief images for maps.. |
+| [Eduard](https://eduard.earth/) | Eduard creates beautiful and accurate Swiss-style shaded relief images for maps.. |
 
 
 ## Python 
