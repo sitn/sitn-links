@@ -29,6 +29,15 @@ Liste de ressources utiles
 | ----------- | ----------- |
 | [DBDiagram](https://dbdiagram.io/) | Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL language. |
 
+## Cartographie
+
+### Ombrage
+
+| Nom      | Description |
+| ----------- | ----------- |
+| [Eduard]([https://dbdiagram.io/](https://eduard.earth/)) | Eduard creates beautiful and accurate Swiss-style shaded relief images for maps.. |
+
+
 ## Python 
 
 ### Django
