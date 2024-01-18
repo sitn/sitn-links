@@ -48,7 +48,7 @@ Liste de ressources utiles
 
 | Nom      | Description |
 | ----------- | ----------- |
-| [3DF-Zephyr](https://www.3dflow.net/3df-zephyr-photogrammetry-software/)) | Logiciel de photogrammétrie.  |
+| [3DF-Zephyr](https://www.3dflow.net/3df-zephyr-photogrammetry-software/) | Logiciel de photogrammétrie.  |
 
 
 ## Python 
