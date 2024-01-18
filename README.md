@@ -35,7 +35,13 @@ Liste de ressources utiles
 
 | Nom      | Description |
 | ----------- | ----------- |
-| [Eduard](https://eduard.earth/) | Eduard creates beautiful and accurate Swiss-style shaded relief images for maps.. |
+| [Eduard](https://eduard.earth/) | Eduard creates beautiful and accurate Swiss-style shaded relief images for maps. |
+
+## Instruments, mesures
+
+| Nom      | Description |
+| ----------- | ----------- |
+| [Daxair](https://www.daxair.ch/)) | Ballons captifs pour télédétection.  |
 
 
 ## Python 
