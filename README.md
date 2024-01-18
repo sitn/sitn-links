@@ -41,7 +41,7 @@ Liste de ressources utiles
 
 | Nom      | Description |
 | ----------- | ----------- |
-| [Daxair](https://www.daxair.ch/)) | Ballons captifs pour télédétection.  |
+| [Daxair](https://www.daxair.ch/) | Ballons captifs pour télédétection.  |
 
 
 ## Python 
