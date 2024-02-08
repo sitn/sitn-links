@@ -50,6 +50,14 @@ Liste de ressources utiles
 | ----------- | ----------- |
 | [3DF-Zephyr](https://www.3dflow.net/3df-zephyr-photogrammetry-software/) | Logiciel de photogrammétrie.  |
 
+## Outils / librairies
+
+### 3D
+
+| Nom      | Description |
+| ----------- | ----------- |
+| [Speckle](https://github.com/specklesystems) | Speckle - The Open Source Platform For 3D Data.  |
+
 
 ## Python 
 
