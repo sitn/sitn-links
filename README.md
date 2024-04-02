@@ -57,7 +57,7 @@ Liste de ressources utiles
 | Nom      | Description |
 | ----------- | ----------- |
 | [Speckle](https://github.com/specklesystems) | Speckle - The Open Source Platform For 3D Data.  |
-
+| [Deck.gl](https://deck.gl/) | Deck.gl - deck.gl is a GPU-powered framework for visual exploratory data analysis of large datasets. |
 
 ## Python 
 
