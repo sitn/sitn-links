@@ -29,6 +29,11 @@ Liste de ressources utiles
 | ----------- | ----------- |
 | [DBDiagram](https://dbdiagram.io/) | Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL language. |
 
+### Test
+| Nom      | Description |
+| ----------- | ----------- |
+| [Locust](https://locust.io/) | An open source load testing tool. Define user behaviour with Python code, and swarm your system with millions of simultaneous users. |
+
 ## Cartographie
 
 ### Ombrage
