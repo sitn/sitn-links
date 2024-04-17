@@ -64,6 +64,12 @@ Liste de ressources utiles
 | [Speckle](https://github.com/specklesystems) | Speckle - The Open Source Platform For 3D Data.  |
 | [Deck.gl](https://deck.gl/) | Deck.gl - deck.gl is a GPU-powered framework for visual exploratory data analysis of large datasets. |
 
+### Formulaires
+
+| Nom      | Description |
+| ----------- | ----------- |
+| [libphonumber](https://github.com/google/libphonenumber) | Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers..  |
+
 ## Python 
 
 ### Django
