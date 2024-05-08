@@ -1,6 +1,12 @@
 # sitn-links
 Liste de ressources utiles
 
+### Cours
+
+| Nom      | Description |
+| ----------- | ----------- |
+| [learngeodata](https://learngeodata.eu/) | 3D and geodata courses |
+
 ### Design UI/UX
 
 | Nom      | Description |
