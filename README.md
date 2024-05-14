@@ -7,6 +7,14 @@ Liste de ressources utiles
 | ----------- | ----------- |
 | [learngeodata](https://learngeodata.eu/) | 3D and geodata courses |
 
+
+### Utilitaires
+
+| Nom      | Description |
+| ----------- | ----------- |
+| [dupeGuru](https://dupeguru.voltaicideas.net/) | dupeGuru is a cross-platform (Linux, OS X, Windows) GUI tool to find duplicate files in a system |
+
+
 ### Design UI/UX
 
 | Nom      | Description |
