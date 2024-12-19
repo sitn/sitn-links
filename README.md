@@ -90,6 +90,12 @@ Liste de ressources utiles
 | ----------- | ----------- |
 | [Panoramax](https://panoramax.fr/) | Open-source photo mapping / street view solution. |
 
+### Visualisation scientifique
+
+| Nom      | Description |
+| ----------- | ----------- |
+| [Quarto](https://quarto.org/) | An open-source scientific and technical publishing system. |
+
 ### Formulaires
 
 | Nom      | Description |
