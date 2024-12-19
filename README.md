@@ -84,6 +84,11 @@ Liste de ressources utiles
 | ----------- | ----------- |
 | [A-Frame](https://aframe.io/) | A web framework for building 3D/AR/VR experiences. |
 
+### Panoramas
+
+| Nom      | Description |
+| ----------- | ----------- |
+| [Panoramax](https://panoramax.fr/) | Open-source photo mapping / street view solution. |
 
 ### Formulaires
 
