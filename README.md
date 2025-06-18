@@ -22,6 +22,7 @@ Liste de ressources utiles
 | [Cloudscape](https://cloudscape.design/) | An open source design system for the cloud. Cloudscape offers user interface guidelines, front-end components, design resources, and development tools for building intuitive, engaging, and inclusive user experiences at scale. |
 |[undraw](https://undraw.co/illustrations)| Illustrations customizables |
 |[Coolors](https://coolors.co/palettes/maps)| colors for maps|
+|[Colors in dataviz](https://raw.githubusercontent.com/MI2-Education/2021Z-DataVisualizationTechniques/master/projects/project1/krzyzinski_wojciechowski_zolkowski/krzyzinski_wojciechowski_zolkowski.pdf)| Colors in data visualization |
 
 ### Typographie
 
