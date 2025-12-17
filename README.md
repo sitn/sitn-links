@@ -39,6 +39,9 @@ Liste de ressources utiles
 | [OpenMoji](https://openmoji.org/) | Open source emojis for designers, developers and everyone else! |
 | [Google Material Symbols](https://fonts.google.com/icons?icon.set=Material+Symbols)   | Google's collection of symbols using Material Design principles. |
 | [font-gis](https://viglino.github.io/font-gis/) | Icônes GIS |
+| [uxwing](https://uxwing.com) | Exclusive collection of Free SVG Icons for commercial projects without attribution |
+| [svgrepo](https://www.svgrepo.com) | 500.000+ Open-licensed SVG Vector and Icons |
+| [nps.gov](https://www.nps.gov/subjects/gisandmapping/map-symbols-patterns-for-nps-maps.htm) | Standard cartographic symbols and patterns used on National Park Service maps |
 
 ### Modélisation de base de données
 | Nom      | Description |
