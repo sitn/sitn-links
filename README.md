@@ -42,6 +42,10 @@ Liste de ressources utiles
 | [uxwing](https://uxwing.com) | Exclusive collection of Free SVG Icons for commercial projects without attribution |
 | [svgrepo](https://www.svgrepo.com) | 500.000+ Open-licensed SVG Vector and Icons |
 | [nps.gov](https://www.nps.gov/subjects/gisandmapping/map-symbols-patterns-for-nps-maps.htm) | Standard cartographic symbols and patterns used on National Park Service maps |
+| [experience-japan](https://experience-japan.info/en/) | Support Tourism in Japan from a Visual Design Perspective |
+| [Mapbox - Maki](https://labs.mapbox.com/maki-icons/) | icon set made for map designers |
+| [OpenStreetMap - Symbols](https://wiki.openstreetmap.org/wiki/OpenStreetMap_Carto/Symbols) | icons from openstreetmap |
+
 
 ### Modélisation de base de données
 | Nom      | Description |
