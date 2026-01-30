@@ -45,7 +45,7 @@ Liste de ressources utiles
 | [experience-japan](https://experience-japan.info/en/) | Support Tourism in Japan from a Visual Design Perspective |
 | [Mapbox - Maki](https://labs.mapbox.com/maki-icons/) | icon set made for map designers |
 | [OpenStreetMap - Symbols](https://wiki.openstreetmap.org/wiki/OpenStreetMap_Carto/Symbols) | icons from openstreetmap |
-|[https://flowbite.com/icons/](flowbite)| icons for interfaces |
+| [flowbite](https://flowbite.com/icons/) | icons for interfaces |
 
 
 ### Modélisation de base de données
