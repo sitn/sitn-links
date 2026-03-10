@@ -46,6 +46,7 @@ Liste de ressources utiles
 | [Mapbox - Maki](https://labs.mapbox.com/maki-icons/) | icon set made for map designers |
 | [OpenStreetMap - Symbols](https://wiki.openstreetmap.org/wiki/OpenStreetMap_Carto/Symbols) | icons from openstreetmap |
 | [flowbite](https://flowbite.com/icons/) | icons for interfaces |
+| [Pinhead Map Icons](https://pinhead.ink) | icons for maps |
 
 
 ### Modélisation de base de données
